@@ -1,0 +1,69 @@
+>>>Asio option eo amin'ireo pronostic enregistré ahafahana manampy pronostic hafa mety hitombina, ka izay pronostic efa voasafidy nefa niverina voafidy dia asio
+au carré fotsiny(ex:1X³ raha niverina in-telo).
+
+>>>Ataovy mety ampiakarina ny isany buts maty ao amin'ny option(Nombre de buts).
+
+>>>Ampio an'ireto ny pronostic azo hisafidianana
+ >>Double chance et nombre de buts :(ampio hafa mety hitombina)
+1X / >1.5
+12 / >1.5
+X2 / >1.5
+1X / <1.5
+12 / <1.5
+X2 / <1.5...
+ >>Double chance et les deux équipes marquent :
+1X / Non
+12 / Oui
+X2 / Non
+1X / Oui
+12 / Non
+X2 / Oui
+ >>Nombre de buts d'equipe 1:(ataovy mety ampiakarina ny isany but)
+>0.5
+<0.5
+>1.5
+<1.5
+>2.5
+<2.5
+<3.5
+ >>Nombre de buts d'equipe 2:(ataovy mety ampiakarina ny isany but)
+>0.5
+<0.5
+>1.5
+<1.5
+>2.5
+<2.5
+<3.5
+ >>1ère mi-temps - Nombre de buts :(ataovy mety ampiakarina ny isany but)
+>0.5
+<0.5
+>1.5
+<1.5
+>2.5
+<2.5
+<3.5
+ >>1ère mi-temps - Résultat de la mi-temps :
+1
+X
+2
+ >>1ère mi-temps - Double chance :
+1X
+X2
+12
+ >>1ère mi-temps - Les deux équipes marquent :
+OUI
+NON
+ >>Score exact :(ampio hafa mety hitombina)
+0:0
+0:1
+1:0
+1:1
+1:2
+2:1
+2:2
+2:3
+3:2
+3:3
+
+
+
